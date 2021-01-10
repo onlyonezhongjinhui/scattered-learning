@@ -6,7 +6,6 @@ import org.springframework.stereotype.Component;
 /**
  * @author onlyonezhongjinhui
  */
-
 @Component
 public class KafkaConsumer {
 
