@@ -19,6 +19,7 @@
         <module>spi/spi-demo1</module>
         <module>spi/spi-demo2</module>
         <module>activemq</module>
+        <module>kafka</module>
     </modules>
 
     <properties>
