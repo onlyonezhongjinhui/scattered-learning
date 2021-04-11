@@ -5,9 +5,9 @@ package io.zjh;
  *
  * @author onlyonezhongjinhui
  */
-public class FileUploader implements Uploader {
+public class VideoUploader implements Uploader {
     @Override
     public void upload() {
-        System.out.println("this is a strong file uploader");
+        System.out.println("this is a strong Video uploader");
     }
 }
