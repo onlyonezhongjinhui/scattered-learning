@@ -20,6 +20,9 @@
         <module>spi/spi-demo2</module>
         <module>activemq</module>
         <module>kafka</module>
+        <module>hystrix</module>
+        <module>kafka-spring</module>
+        <module>proxy</module>
     </modules>
 
     <properties>
